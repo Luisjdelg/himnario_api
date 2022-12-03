@@ -2,11 +2,9 @@
 
 $rutaArray =  explode("/", $_SERVER['REQUEST_URI']);
 $rutaArray = array_filter($rutaArray);
-/*
-***************************************
+/************************************
 Cuando no se hace una peticion
-***************************************
-*/
+*************************************/
 if(count($rutaArray)==0){
     $data = array(
 
@@ -30,14 +28,7 @@ Peticion GET
 ***************************************
 */
     if($_SERVER['REQUEST_METHOD']=="GET"){
-        $data = array(
-    
-            'status' => '200',
-            'result'=> 'soicitud GET'
-        
-        );
-        echo  json_encode($data, http_response_code($data['status']));
-    return;
+include "services/get.php";
     } 
     /*
 ***************************************
