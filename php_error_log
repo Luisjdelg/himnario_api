@@ -1,0 +1,10 @@
+[01-Dec-2022 06:57:14 Europe/Berlin] PHP Parse error:  syntax error, unexpected '%', expecting end of file in C:\xampp\htdocs\himnario\routers\routers.php on line 4
+[01-Dec-2022 06:58:03 Europe/Berlin] PHP Parse error:  syntax error, unexpected ',' in C:\xampp\htdocs\himnario\routers\routers.php on line 5
+[01-Dec-2022 06:59:15 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'http_response_code' (T_STRING), expecting ')' in C:\xampp\htdocs\himnario\routers\routers.php on line 19
+[01-Dec-2022 06:59:18 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'http_response_code' (T_STRING), expecting ')' in C:\xampp\htdocs\himnario\routers\routers.php on line 19
+[01-Dec-2022 07:01:08 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'http_response_code' (T_STRING), expecting ')' in C:\xampp\htdocs\himnario\routers\routers.php on line 15
+[01-Dec-2022 07:03:15 Europe/Berlin] PHP Notice:  Undefined index: request_url in C:\xampp\htdocs\himnario\routers\routers.php on line 3
+[01-Dec-2022 07:03:15 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\himnario\routers\routers.php on line 7
+[01-Dec-2022 07:03:42 Europe/Berlin] PHP Notice:  Undefined index: request_url in C:\xampp\htdocs\himnario\routers\routers.php on line 3
+[01-Dec-2022 07:03:42 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\himnario\routers\routers.php on line 6
+[01-Dec-2022 07:05:30 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\himnario\routers\routers.php on line 6
